@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'EasyDB'
+NAME = 'Easydb-plus'
 DESCRIPTION = 'AI悦创·编程一对一教学代码库,长期招收编程一对一学员,微信:Jiabcdefh'
 URL = 'https://github.com/AndersonHJB/EasyDB'
 EMAIL = 'bornforthis@bornforthis.cn'
