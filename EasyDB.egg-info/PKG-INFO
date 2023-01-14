@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: EasyDB
+Version: 0.0.1
+Summary: AI悦创·编程一对一教学代码库,长期招收编程一对一学员,微信:Jiabcdefh
+Home-page: https://github.com/AndersonHJB/EasyDB
+Author: Bornforthis
+Author-email: bornforthis@bornforthis.cn
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# 📦 Bornforthis Library Python EasyDB
+
+## What?
+
+该库可以使你快速写入你想写入数据库的数据，基于：sqlite3、pymongo、sqlalchemy 的二次开发。
+
+## Install
+
+```python
+pip install EasyDB
+```
+
+## Use
+
+```python
+......
+```

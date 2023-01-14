@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+EasyDB/MongoDB.py
+EasyDB/SqliteOperation.py
+EasyDB/__init__.py
+EasyDB/__version__.py
+EasyDB.egg-info/PKG-INFO
+EasyDB.egg-info/SOURCES.txt
+EasyDB.egg-info/dependency_links.txt
+EasyDB.egg-info/requires.txt
+EasyDB.egg-info/top_level.txt
